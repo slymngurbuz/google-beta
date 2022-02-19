@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.orta{
+    margin-top: 10px;
+    text-align: center;
+}
+
+.container1{
+    text-align: center;
+    margin-top: 10px;
+    height: 60px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: gainsboro;
+}
+
+.container2{
+    background-color: #7EE5DA;
+    height: 75px;
+    margin-left: 100px;
+    margin-right: 61%;
+}
+
+.container3{
+    margin-top: -75px;
+    margin-left: 751px;
+    background-color: #70CCC2;
+    height: 75px;
+    margin-right: 43%;
+}
+
+.container4{
+    margin-top: -75px;
+    margin-left: 1096px;
+    background-color: #62B3AA;
+    margin-right: 5.2%;
+    height: 75px;
+    
+}
